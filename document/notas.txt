@@ -1,0 +1,7 @@
+---------------------Que es el asincronismo--------------------------------
+
+--> El asincronismo es la accion que no ocurre al mismo tienpo
+
+--> JavaScript es un lenguaje que maneja un solo hilo, 
+
+--> Un callback es una funcion que al crearla le pasamos como parametro otra funcion.
