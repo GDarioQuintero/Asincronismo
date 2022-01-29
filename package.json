@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Trabajar con Asincronismo en JavaScript",
   "main": "src/index.js",
-  "scripts": { 
-    "callback": "node src/callback/index.js" 
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js"
   },
   "keywords": [
     "callbacks",
@@ -12,5 +13,8 @@
     "async"
   ],
   "author": "Germna Quintero",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
